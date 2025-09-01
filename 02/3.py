@@ -1,6 +1,5 @@
 import sys
 import math
-#TASK 2 HW
 Enter_number=int(input("Enter your number:"))
 
 divider=10
